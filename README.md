@@ -6,4 +6,4 @@
 First install python then you can open the setup file.bat then use the bot like beug again a can test I think set it in the week then enjoy
 
 ## Contact Me
-﹒Click here : [Discord Server](https://discord.gg/8MbYX2qRVs)
+﹒[Discord](https://discord.gg/8MbYX2qRVs)
