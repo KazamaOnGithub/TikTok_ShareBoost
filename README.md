@@ -3,7 +3,7 @@
 
 # how to use
 
-You just have to first extract file, then open the "Setup", and finally you will have the modules that will open and install. (follow the instructions on the software)
+First install python then you can open the setup file.bat then use the bot like beug again a can test I think set it in the week then enjoy
 
 ## Contact Me
 ﹒Click here : [Discord Server](https://discord.gg/8MbYX2qRVs)
