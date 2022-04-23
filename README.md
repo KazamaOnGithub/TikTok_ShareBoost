@@ -4,9 +4,7 @@
 
 ## How to use
 
-First install python then you can open the setup file.bat then use the bot like beug again a can test I think set it in the week then enjoy. 
-
-To check if you have the modules, open the "cmd" and enter this "python LikeBot.py" and then the module that will have to be installed will be written and to install it do "pip install 'module'"
+Just open >>> Readme.txt and click on the link and Download 
 
 ## Contact Me
 
