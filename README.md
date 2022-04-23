@@ -4,7 +4,7 @@
 
 ## How to use
 
-Just open >>> Readme.txt and click on the link and Download 
+Just open >>> Download.txt and click on the link and Download 
 
 ## Contact Me
 
